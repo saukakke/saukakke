@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saukakke
 - 👀 I’m interested in Mobile Development and Web Development
-- 🌱 I’m currently learning React Native and Flutter
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through (+234)08130144920
+- 📫 How to reach me through (+234)8130144920 or (+234)9026575750
 
 <!---
 saukakke/saukakke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
