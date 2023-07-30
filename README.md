@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @saukakke
-- 👀 I’m interested in Mobile Development and Web Development
-- 🌱 I’m currently learning Laravel
+- 👋 Hi, I’m Yaisn Muhammed 
+- 👀 I’m interested in Mobile Web Development
+- 🌱 I’m currently learning react JS and sass (scss)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through (+234)8130144920 or (+234)9026575750
+- 📫 Call me through (+234)8130144920 or (+234)9026575750
+- 📧 Send me mails through yasinmuhammedtukur@gmail.com
 
 <!---
 saukakke/saukakke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
