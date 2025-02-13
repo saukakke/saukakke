@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaisn Muhammed Tukur
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue JS, Quasar framework, react JS and sass (scss)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning laravel framework
+- 💞️ I’m looking to collaborate on web development
 - 📫 Call me through (+234)8130144920 or (+234)9026575750
 - 📧 Send me mails through yasinmuhammedtukur@gmail.com
 
