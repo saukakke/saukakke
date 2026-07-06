@@ -1,6 +1,6 @@
-Hi there, I'm Yasin Muhammed Tukur 👋
+**Hi there, I'm Yasin Muhammed Tukur 👋**
 
-Full-Stack Software Engineer | Laravel Developer | EdTech Builder
+***Full-Stack Software Engineer | Laravel Developer | EdTech Builder***
 
 I'm a Full-Stack Software Engineer passionate about building scalable, secure, and user-focused software solutions. My primary expertise is in Laravel, where I develop robust backend systems, RESTful APIs, and modern web applications with clean architecture and intuitive user experiences.
 
