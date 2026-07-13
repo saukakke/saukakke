@@ -1,6 +1,6 @@
-**Hi there, I'm Yasin Muhammed Tukur 👋**
+# Hi there, I'm Yasin Muhammed Tukur 👋
 
-***Full-Stack Software Engineer | Laravel Developer | EdTech Builder***
+## Full-Stack Software Engineer | Laravel Developer | EdTech Builder
 
 I'm a Full-Stack Software Engineer passionate about building scalable, secure, and user-focused software solutions. My primary expertise is in Laravel, where I develop robust backend systems, RESTful APIs, and modern web applications with clean architecture and intuitive user experiences.
 
@@ -8,7 +8,7 @@ I enjoy solving real-world problems through technology, especially in Education 
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 💻 Full-Stack Software Engineer
 - ⚙️ Laravel & PHP Specialist
@@ -21,9 +21,9 @@ I enjoy solving real-world problems through technology, especially in Education 
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Backend
+### Backend
 
 - Laravel
 - PHP
@@ -32,7 +32,7 @@ Backend
 - MySQL
 - SQLite
 
-Frontend
+### Frontend
 
 - HTML5
 - CSS3
@@ -40,7 +40,7 @@ Frontend
 - Bootstrap
 - Tailwind CSS
 
-Programming Languages
+### Programming Languages
 
 - PHP
 - JavaScript
@@ -48,7 +48,7 @@ Programming Languages
 - Java
 - SQL
 
-DevOps & Tools
+### DevOps & Tools
 
 - Git
 - GitHub
@@ -60,7 +60,7 @@ DevOps & Tools
 
 ---
 
-🚀 Areas of Interest
+## 🚀 Areas of Interest
 
 - Educational Technology (EdTech)
 - Enterprise Software Development
@@ -75,9 +75,9 @@ DevOps & Tools
 
 ---
 
-💼 Featured Projects
+## 💼 Featured Projects
 
-🧪 SmartLab
+### 🧪 SmartLab
 
 A virtual laboratory and e-learning platform featuring:
 
@@ -90,7 +90,7 @@ A virtual laboratory and e-learning platform featuring:
 - RESTful APIs
 - PostgreSQL Integration
 
-📄 Web-Based Plagiarism Detection System
+### 📄 Web-Based Plagiarism Detection System
 
 A modern plagiarism detection platform featuring:
 
@@ -101,7 +101,7 @@ A modern plagiarism detection platform featuring:
 - Report Generation
 - Modern UI/UX
 
-📈 Laravel SEO Module
+### 📈 Laravel SEO Module
 
 A comprehensive SEO solution featuring:
 
@@ -115,7 +115,7 @@ A comprehensive SEO solution featuring:
 
 ---
 
-🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - Advanced Laravel Architecture
 - Cloud Infrastructure
@@ -126,13 +126,13 @@ A comprehensive SEO solution featuring:
 
 ---
 
-💡 Development Philosophy
+## 💡 Development Philosophy
 
 «"Write clean code, build secure systems, solve meaningful problems, and never stop learning."»
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - GitHub: https://github.com/saukakke
 - LinkedIn: https://linkedin.com/in/yasin-muhammed-tukur
@@ -140,7 +140,7 @@ A comprehensive SEO solution featuring:
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 "GitHub Stats" (https://github-readme-stats.vercel.app/api?username=saukakke&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -150,12 +150,12 @@ A comprehensive SEO solution featuring:
 
 ---
 
-🤝 Let's Build Something Great
+## 🤝 Let's Build Something Great
 
 I'm always interested in collaborating on open-source projects, innovative software solutions, and impactful technologies. If you're working on something exciting or would like to collaborate, feel free to connect with me.
 
 ---
 
-⚡ Motto
+## ⚡ Motto
 
 Building innovative software solutions that empower people, improve education, and create lasting impact.
