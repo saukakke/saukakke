@@ -1,161 +1,102 @@
-# Hi there, I'm Yasin Muhammed Tukur 👋
+# Hi, I'm Yasin Muhammed Tukur
 
-## Full-Stack Software Engineer | Laravel Developer | EdTech Builder
+### Full-Stack Software Engineer · Laravel Developer · EdTech Builder
 
-I'm a Full-Stack Software Engineer passionate about building scalable, secure, and user-focused software solutions. My primary expertise is in Laravel, where I develop robust backend systems, RESTful APIs, and modern web applications with clean architecture and intuitive user experiences.
+[![Profile Views](https://komarev.com/ghpvc/?username=saukakke&style=flat-square)](https://github.com/saukakke)
+[![GitHub followers](https://img.shields.io/github/followers/saukakke?label=Followers&style=flat-square)](https://github.com/saukakke?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/saukakke?affiliations=OWNER&style=flat-square&label=Stars)](https://github.com/saukakke?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f5132?style=flat-square)](https://saukakke.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasin%20Muhammed%20Tukur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-muhammed-tukur)
 
-I enjoy solving real-world problems through technology, especially in Education Technology (EdTech), enterprise software, research systems, and digital transformation.
+I build backend-heavy, full-stack software for education, research, operations and digital services. My work centers on Laravel/PHP, JavaScript, APIs, databases, secure workflows and practical systems that solve real problems.
 
----
+## About
 
-## 🚀 About Me
+- B.Sc. Computer Science — Ahmadu Bello University, Zaria
+- PGD in Computer Science — Ahmadu Bello University, Zaria
+- Backend Engineer at Zuhsyn Innovations Limited
+- Full-stack experience across EdTech, logistics, healthcare, information systems and workflow platforms
+- 10+ years of teaching and mentoring experience
+- Interested in software architecture, AI integration, cybersecurity and secure application development
 
-- 💻 Full-Stack Software Engineer
-- ⚙️ Laravel & PHP Specialist
-- 🎓 B.Sc. in Computer Science
-- 🌐 Building software solutions for businesses and educational institutions
-- 📚 Passionate about EdTech and digital transformation
-- 🎨 UI/UX enthusiast focused on elegant, accessible, and intuitive interfaces
-- 🔒 Interested in Cybersecurity, System Administration, and Secure Software Development
-- 🚀 Committed to continuous learning and engineering excellence
+## Core Stack
 
----
+**Backend & APIs**
 
-## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-### Backend
+**Frontend**
 
-- Laravel
-- PHP
-- REST API Development
-- PostgreSQL
-- MySQL
-- SQLite
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Frontend
+**Data & Infrastructure**
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Programming Languages
+## Featured Projects
 
-- PHP
-- JavaScript
-- Python
-- Java
-- SQL
+### [SmartLab](https://github.com/saukakke/smartlab)
 
-### DevOps & Tools
+An EdTech and virtual laboratory platform designed around interactive learning, laboratory workflows, assessments and backend services. The broader SmartLab work includes a Laravel API and Python-based chemistry/experiment services.
 
-- Git
-- GitHub
-- Docker
-- Linux
-- Apache
-- Nginx
-- Render
+`EdTech` `Laravel` `React` `Python` `APIs`
 
----
+### [Veritas — Plagiarism Detection System](https://github.com/saukakke/plagiarism_detection_system)
 
-## 🚀 Areas of Interest
+An academic document submission and similarity-analysis platform. It supports PDF, DOCX and TXT processing, text extraction, shingling, MinHash fingerprints, LSH indexing, pairwise similarity analysis and role-aware review workflows.
 
-- Educational Technology (EdTech)
-- Enterprise Software Development
-- Artificial Intelligence Integration
-- REST API Development
-- UI/UX Design
-- Search Engine Optimization (SEO)
-- Cloud Deployment
-- Software Architecture
-- Database Design
-- Secure Web Applications
+`Laravel 12` `MinHash` `LSH` `Academic Integrity` `RBAC`
 
----
+### [School Project Management System](https://github.com/saukakke/school-project-management-system)
 
-## 💼 Featured Projects
+A university project-management platform covering project allocation, supervision, private document storage and versioning, similarity analysis, defense scheduling, examiner panels, assessments, final-result approval, notifications and audit operations.
 
-### 🧪 SmartLab
+`Laravel 12` `EdTech` `Queues` `RBAC` `Workflow Automation`
 
-A virtual laboratory and e-learning platform featuring:
+### [EventFlow — Event Ticketing](https://github.com/saukakke/event-ticketing)
 
-- Authentication & Authorization
-- Interactive Laboratory Modules
-- Video Learning
-- Quizzes & Assessments
-- Discussion Forums
-- Laboratory Scheduling
-- RESTful APIs
-- PostgreSQL Integration
+A Nigerian-focused full-stack event ticketing and management platform with event discovery, inventory control, authenticated ordering, Paystack test-mode checkout, payment verification, signed webhooks, digital QR tickets, organizer analytics and venue check-in.
 
-### 📄 Web-Based Plagiarism Detection System
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Paystack` `QR`
 
-A modern plagiarism detection platform featuring:
+## More Work
 
-- Student Dashboard
-- Lecturer Dashboard
-- Administrator Dashboard
-- Similarity Detection
-- Report Generation
-- Modern UI/UX
+My repositories also include systems and applications for logistics, beneficiary and impact tracking, e-commerce, healthcare, leave management, voting, school information management and other operational workflows.
 
-### 📈 Laravel SEO Module
+[Explore all repositories →](https://github.com/saukakke?tab=repositories)
 
-A comprehensive SEO solution featuring:
+## Current Focus
 
-- Dynamic Meta Tags
-- XML Sitemap
-- Robots.txt Management
-- Open Graph Support
-- Twitter Cards
-- Structured Data (Schema.org)
-- Dynamic Keyword Management
+- Advanced Laravel architecture and scalable backend systems
+- AI-assisted and data-driven software
+- EdTech platforms and academic systems
+- Secure APIs and role-based applications
+- Cloud deployment, Docker and production readiness
+- Performance and reliability engineering
 
----
+## GitHub Activity
 
-## 🌱 Currently Exploring
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saukakke&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saukakke&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
 
-- Advanced Laravel Architecture
-- Cloud Infrastructure
-- Docker & Containerization
-- Artificial Intelligence
-- Performance Optimization
-- Scalable Backend Systems
+[![GitHub Streak](https://streak-stats.demolab.com?user=saukakke&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
----
+## Connect
 
-## 💡 Development Philosophy
+- [GitHub](https://github.com/saukakke)
+- [LinkedIn](https://www.linkedin.com/in/yasin-muhammed-tukur)
+- [Portfolio](https://saukakke.github.io/portfolio/)
+- Email: saukakke@gmail.com
 
-«"Write clean code, build secure systems, solve meaningful problems, and never stop learning."»
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/saukakke
-- LinkedIn: https://linkedin.com/in/yasin-muhammed-tukur
-- Email: yasinmuhammedtukur@gmail.com
-
----
-
-## 📊 GitHub Statistics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=saukakke&show_icons=true&theme=github_dark&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=saukakke&layout=compact&theme=github_dark&hide_border=true)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=saukakke&theme=github-dark&hide_border=true)
-
----
-
-## 🤝 Let's Build Something Great
-
-I'm always interested in collaborating on open-source projects, innovative software solutions, and impactful technologies. If you're working on something exciting or would like to collaborate, feel free to connect with me.
-
----
-
-## ⚡ Motto
-
-Building innovative software solutions that empower people, improve education, and create lasting impact.
+> Build clean systems. Secure the workflow. Solve meaningful problems.
