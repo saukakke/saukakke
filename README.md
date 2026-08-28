@@ -11,6 +11,7 @@ I design and build backend-heavy web applications, APIs, and workflow systems fo
 
 ## Profile
 
+- OND in Computer Science - Institute of Computing and ICT, Ahmadu Bello University, Zaria 
 - B.Sc. in Computer Science — Ahmadu Bello University, Zaria
 - PGD in Computer Science — Ahmadu Bello University, Zaria
 - Backend Engineer with full-stack development experience
@@ -94,3 +95,4 @@ Supports event discovery, ticket inventory, authenticated ordering, Paystack tes
 - **Portfolio:** https://saukakke.github.io/portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/yasin-muhammed-tukur
 - **GitHub:** https://github.com/saukakke
+- **Phone:** +234 8130144920
