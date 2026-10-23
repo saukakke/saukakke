@@ -95,4 +95,5 @@ Supports event discovery, ticket inventory, authenticated ordering, Paystack tes
 - **Portfolio:** https://saukakke.github.io/portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/yasin-muhammed-tukur
 - **GitHub:** https://github.com/saukakke
+- **Facebook:** https://facebook.com/saukakke
 - **Phone:** +234 8130144920
